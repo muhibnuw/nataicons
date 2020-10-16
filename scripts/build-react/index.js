@@ -5,9 +5,7 @@ const packageJSONTemplate = (name) =>
   `{
 "name": "nataicons",
 "version": "${pkg.version}",
-"main": "lib/index.cjs.js",
-"module": "lib/index.es.js",
-"jsnext:main": "lib/index.es.js",
+"main": "index.js",
 "license": "${pkg.license}",
 "homepage": "${pkg.homepage}",
 "description": "${pkg.description}",
