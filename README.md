@@ -21,7 +21,6 @@ Install with [npm](npmjs.com/).
 
 ```bash
 npm install nataicons --save
-
 ```
 
 ## Usage
