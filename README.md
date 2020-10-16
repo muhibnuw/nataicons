@@ -84,6 +84,7 @@ By default, each icon size will be on 24x24 and 20x20 depends on the variant. Yo
 
 1. [vue-hero-icons](https://github.com/matschik/vue-hero-icons)
 2. [radix-icons](https://github.com/modulz/radix-icons)
+3. [heroicons](https://github.com/tailwindlabs/heroicons)
 
 ## License
 
